@@ -1,4 +1,4 @@
-module github.com/nicholasjackson/building-microservices-youtube/product-api
+module github.com/triceras/building-microservices-youtube/product-api
 
 go 1.13
 
